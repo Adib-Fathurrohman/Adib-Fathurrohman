@@ -15,5 +15,5 @@
     
 <!-- [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/adib-fathurrohman-6b2ba42b0/) -->
 [![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/23276015)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+<!-- [![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/) -->
 </div>
